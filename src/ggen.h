@@ -45,7 +45,7 @@
 #define GGEN_H 1
 
 /* igraph is used for graph manipulation */
-#include<igraph/igraph.h>
+#include<igraph.h>
 /* GNU Scientific Library provides random number generators */
 #include<gsl/gsl_rng.h>
 #include<gsl/gsl_randist.h>
