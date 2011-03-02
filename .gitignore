@@ -28,3 +28,6 @@ src/.libs/
 src/ggen
 stamp-h1
 tests/.deps/
+interfaces/python/build
+interfaces/python/ggen/*.pyc
+
